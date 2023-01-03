@@ -23,3 +23,12 @@ nav
 {
     background-color: rebeccapurple;
 }
+table
+{
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid black;
+    font-size: 18px;
+    padding: 5px 15px;
+}
