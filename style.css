@@ -1,3 +1,25 @@
-h1{
-    color: blue;
+nav ol{
+    display: flex;
+}
+nav li{
+   margin-right: 15px;
+   list-style: none;
+   padding: 10px;
+}
+nav li:hover
+{
+    background-color: rgb(0, 223, 204);
+    color: white;
+  
+}
+
+nav li a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    font-weight: 600px;
+}
+nav
+{
+    background-color: rebeccapurple;
 }
